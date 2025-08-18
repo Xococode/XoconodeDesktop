@@ -10,7 +10,7 @@ Este documento te guiará a través de los pasos necesarios para instalar y ejec
   👉 [Xoconodo - Google Drive](https://drive.google.com/file/d/13VCGM1YDJWSNxFwjLinY3HcoO7TrTJ2t/view?usp=sharing)
 
 - **Captura de pantalla y documentación:**  
-  👉 [Imagen Xoconodo](https://xococode.github.io/XoconodeDesktop/CapturaXoconode.JPG)
+![Vista previa de la app](https://xococode.github.io/Xocoflow-3/CapturaXoconode.JPG)
 
 ---
 
